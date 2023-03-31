@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579624014 source:c:\users\olga\documents\Программы\c++\Массивы\Среднее по группам\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+

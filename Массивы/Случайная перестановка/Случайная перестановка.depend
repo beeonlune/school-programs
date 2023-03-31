@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579624661 source:c:\users\olga\documents\Программы\c++\Массивы\Случайная перестановка\main.cpp
+	<iostream>
+	<cstdlib>
+

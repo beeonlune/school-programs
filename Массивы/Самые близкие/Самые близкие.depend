@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580050867 source:c:\users\olga\documents\Программы\c++\Массивы\Самые близкие\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+
