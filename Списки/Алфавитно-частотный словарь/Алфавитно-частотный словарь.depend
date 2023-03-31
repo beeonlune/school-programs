@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1680303968 source:c:\users\814\documents\Программы\c++\Списки\Алфавитно-частотный словарь\main.cpp
+	<iostream>
+	<map>
+	<iterator>
+	<fstream>
+	<sstream>
+
